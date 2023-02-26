@@ -1,4 +1,4 @@
-### <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='40' align="left"/> Hello there !</br>I'm Sahil Nenwani,software enginne MERNStack Developer <b>from karachi,<img src="https://image.freepik.com/free-photo/flag-pakistan_1401-192.jpg" width="13" hieght="20"/>Pakistan.</b>
+### <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='40' align="left"/> Hello there !</br>I'm Sahil Nenwani,Software Engineer <b>from karachi,<img src="https://image.freepik.com/free-photo/flag-pakistan_1401-192.jpg" width="13" hieght="20"/>Pakistan.</b>
 
 
 
