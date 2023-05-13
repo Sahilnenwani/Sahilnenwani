@@ -1,6 +1,6 @@
-### <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='40' align="left"/> Welcome to my GitHub profile! I'm a passionate software engineer with experience in FullStack development, specializing in backend development with Node.JS, Express.JS, and Nest.JS. I have a strong foundation in creating CI/CD pipelines, version control using Git, GitHub, and Bitbucket, and implementing real-time chat features with WebSockets and SocketIO.
-I'm always eager to learn about new technologies and trends in software engineering, and I would be an excellent fit for your search for a software engineer. I love programming and am constantly looking for opportunities to expand my knowledge and skills.
-If you're looking for a driven and dedicated software engineer who is eager to learn and work on new things, then I'm the right person for you. Let's connect and discuss how we can work together to achieve your goals!
+### Welcome to my GitHub profile! I'm a passionate software engineer with experience in FullStack development, specializing in backend development with Node.JS, Express.JS, and Nest.JS. I have a strong foundation in creating CI/CD pipelines, version control using Git, GitHub, and Bitbucket, and implementing real-time chat features with WebSockets and SocketIO.
+### I'm always eager to learn about new technologies and trends in software engineering, and I would be an excellent fit for your search for a software engineer. I love programming and am constantly looking for opportunities to expand my knowledge and skills.
+### If you're looking for a driven and dedicated software engineer who is eager to learn and work on new things, then I'm the right person for you. Let's connect and discuss how we can work together to achieve your goals!
 
 
 
