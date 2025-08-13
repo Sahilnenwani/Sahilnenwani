@@ -1,25 +1,52 @@
-### Welcome to my GitHub profile! I'm a passionate software engineer with experience in FullStack development, specializing in backend development with Node.JS, Express.JS, and Nest.JS. I have a strong foundation in creating CI/CD pipelines, version control using Git, GitHub, and Bitbucket, and implementing real-time chat features with WebSockets and SocketIO.
-### I'm always eager to learn about new technologies and trends in software engineering, and I would be an excellent fit for your search for a software engineer. I love programming and am constantly looking for opportunities to expand my knowledge and skills.
-### If you're looking for a driven and dedicated software engineer who is eager to learn and work on new things, then I'm the right person for you. Let's connect and discuss how we can work together to achieve your goals!
+# 👋 Hey there, welcome to my GitHub!
 
+I’m a **Full-stack Developer** with 3+ years of experience, and I spend most of my time working on **backend systems**—though I’m just as happy diving into the frontend or infrastructure when needed.
 
+I’ve built and maintained distributed systems using **Node.js** with **NestJS** and **Express.js**, and I also have professional experience working with **Go** (Gin framework) to create fast, scalable services. I enjoy solving complex problems, optimizing performance, and making systems run smoothly under load.
 
-### 🛠 &nbsp;Tech Stack
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Nodejs](https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white)&nbsp;
-![ReactJS](https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white)&nbsp;
-![MongoDB](https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![NumPy](https://img.shields.io/badge/numpy%20-%23013243.svg?&style=flat&logo=numpy&logoColor=white)&nbsp;
-![Pandas](https://img.shields.io/badge/pandas%20-%23150458.svg?&style=flat&logo=pandas&logoColor=white)&nbsp;
-### 📫 &nbsp; How to reach me:
+On the backend side, I’ve worked with:
+- REST & GraphQL APIs
+- Databases: **PostgreSQL**, **MySQL**, **MongoDB**, **Dgraph**
+- Caching & queues: **Redis**, **BullMQ**
+- Search & analytics: **Elasticsearch**
+- ETL pipelines for analytics and reporting
 
-<a href="https://www.linkedin.com/in/sahilnenwani/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white" target="_blank"></a> &nbsp;
-<a href="mailto:sk9941274@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" target="_blank"></a> &nbsp;
-<a href="https://www.instagram.com/sahilnenwani/"><img src="https://img.shields.io/badge/sahilnenwani_-E4405F?style=flat&logo=Instagram&logoColor=white" target="_blank"></a> &nbsp;
+For async communication and scalability, I’ve used **Kafka** and **AWS SQS**.  
+I’m comfortable with **Docker** for containerization and deploying to **Kubernetes**.
 
+On the frontend, I’ve contributed to several **React.js** projects, focusing on writing clean, maintainable code.
+
+I also enjoy exploring AI and automation. Recently, I’ve worked with **MCP**, **LangChain**, **LangGraph**, and **LangSmith** to build intelligent workflows and tools.
+
+---
+
+## 🛠 Tech Stack
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=Node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/-NestJS-e0234e?style=flat-square&logo=nestjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white)
+![Dgraph](https://img.shields.io/badge/-Dgraph-e50695?style=flat-square&logo=dgraph&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![BullMQ](https://img.shields.io/badge/-BullMQ-ff4d4d?style=flat-square)
+![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+
+---
+
+## 📫 Let’s Connect
+
+<a href="https://www.linkedin.com/in/sahilnenwani/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"></a> &nbsp;
+<a href="mailto:sk9941274@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"></a> &nbsp;
+<a href="https://www.instagram.com/sahilnenwani/"><img src="https://img.shields.io/badge/sahilnenwani_-E4405F?style=flat&logo=Instagram&logoColor=white"></a> &nbsp;
+
+---
+
+💡 Always open to learning, collaborating, and tackling interesting problems—whether it’s **backend, frontend, infrastructure, or AI**. If it’s challenging, I’m probably interested in it.
