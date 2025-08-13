@@ -1,6 +1,6 @@
 # 👋 Hey there, welcome to my GitHub!
 
-I’m a **Full-stack Developer** with 3+ years of experience, and I spend most of my time working on **backend systems**—though I’m just as happy diving into the frontend or infrastructure when needed.
+I’m a **Full-stack Developer** with 3+ years of experience, and I spend most of my time working on **backend systems**—though I’m just as comfortable diving into the frontend or infrastructure when needed.
 
 I’ve built and maintained distributed systems using **Node.js** with **NestJS** and **Express.js**, and I also have professional experience working with **Go** (Gin framework) to create fast, scalable services. I enjoy solving complex problems, optimizing performance, and making systems run smoothly under load.
 
@@ -12,6 +12,7 @@ On the backend side, I’ve worked with:
 - ETL pipelines for analytics and reporting
 
 For async communication and scalability, I’ve used **Kafka** and **AWS SQS**.  
+I have professional experience with **AWS**, leveraging its services for storage, compute, messaging, monitoring, and scaling.  
 I’m comfortable with **Docker** for containerization and deploying to **Kubernetes**.
 
 On the frontend, I’ve contributed to several **React.js** projects, focusing on writing clean, maintainable code.
@@ -49,4 +50,4 @@ I also enjoy exploring AI and automation. Recently, I’ve worked with **MCP**, 
 
 ---
 
-💡 Always open to learning, collaborating, and tackling interesting problems—whether it’s **backend, frontend, infrastructure, or AI**. If it’s challenging, I’m probably interested in it.
+💡 I’m always open to collaborating on challenging projects, whether it’s **backend development with distributed systems, AWS infrastructure, or AI-driven applications**.
