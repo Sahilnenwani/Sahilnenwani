@@ -1,8 +1,8 @@
 # 👋 Hey there, welcome to my GitHub!
 
-I’m a **Full-stack Developer** with 4+ years of experience, and I spend most of my time working on **backend systems**—though I’m just as comfortable diving into the frontend or infrastructure when needed.
+I’m a **Full Stack Developer** with over 4 years of experience, and I spend most of my time working on **backend systems**; however, I’m equally comfortable diving into the frontend or infrastructure when needed.
 
-I’ve built and maintained distributed systems using **Node.js** with **NestJS** and **Express.js**, and I also have professional experience working with **Go** (Gin framework) to create fast, scalable services. I enjoy solving complex problems, optimizing performance, and making systems run smoothly under load.
+I’ve built and maintained distributed systems using **Node.js** with **NestJS** and **Express.js**, and I also have professional experience working with **Go** (Gin framework) to create fast, scalable services. I enjoy solving complex problems, optimising performance, and making systems run smoothly under load.
 
 On the backend side, I’ve worked with:
 - REST & GraphQL APIs
